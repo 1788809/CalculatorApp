@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\CalculatorApp\bin\Debug\net7.0\CalculatorApp.exe
+C:\Users\user\OneDrive\Desktop\CalculatorApp\bin\Debug\net7.0\CalculatorApp.deps.json
+C:\Users\user\OneDrive\Desktop\CalculatorApp\bin\Debug\net7.0\CalculatorApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CalculatorApp\bin\Debug\net7.0\CalculatorApp.dll
+C:\Users\user\OneDrive\Desktop\CalculatorApp\bin\Debug\net7.0\CalculatorApp.pdb
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.dll
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\refint\CalculatorApp.dll
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.pdb
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CalculatorApp\obj\Debug\net7.0\ref\CalculatorApp.dll
