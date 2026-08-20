@@ -13,5 +13,6 @@ class Program
         Console.WriteLine("Division: " + (a / b));
 
         Console.WriteLine("Program Complete");
+        Console.WriteLine("Welcome to Calculator Version 2");
     }
 }
